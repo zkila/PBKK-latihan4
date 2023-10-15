@@ -1,7 +1,13 @@
-# simple-dashboard-wpf-.net
+# PBKK-latihan4
 
-* Duevano Fairuz Pandya
-* 5025211052
-* PBKK A
+Nama : Arkana Bilal Imani
+NRP  : 5025211034
 
-![res](image/res.jpeg)  
+## Deskripsi Singkat
+
+Aplikasi Dashboard sederhana yang menggunakan richUI dan WPF
+
+## Dokumentasi
+
+## Referensi 
+
